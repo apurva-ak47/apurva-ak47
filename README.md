@@ -1,89 +1,86 @@
 <h1 align="center">Hi 👋, I'm Apurva Kohad</h1>
-<h3 align="center">🚀 Backend Developer | DevOps Enthusiast | B.Tech CSE (3rd Year)</h3>
+<h3 align="center">Backend Developer | DevOps Enthusiast | B.Tech CSE (3rd Year)</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=550&lines=Backend+Developer;DevOps+Enthusiast;Full+Stack+Web+Developer;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Backend+Developer;DevOps+Enthusiast;Full+Stack+Web+Developer;Always+Learning+New+Technologies" />
 </p>
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-🎓 B.Tech Computer Engineering (3rd Year)  
-💻 Interested in **Backend Development, DevOps, and Cloud**  
-⚡ Love building **scalable applications and APIs**  
-📚 Currently learning **System Design, Kubernetes, and Advanced Backend**
-
----
-
-# 🛠 Tech Stack
-
-### 👨‍💻 Languages
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 🌐 Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### ⚙️ Backend
-
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-
-### 🗄 Databases
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-
-### ☁ DevOps & Tools
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+- 🎓 B.Tech Computer Engineering (3rd Year)
+- 💻 Passionate about **Backend Development and DevOps**
+- ⚡ Interested in **Cloud, System Design, and Scalable Systems**
+- 🌱 Currently learning **Kubernetes, AWS, and Advanced Backend**
+- 🎯 Goal: Become a **Software Engineer building scalable systems**
 
 ---
 
-# 🔨 Featured Projects
+## 🛠 Tech Stack
 
-### 🍔 Yumigo – Full Stack Food Delivery Platform
-- Built using **React, Node.js, Express.js, MongoDB**
-- Implemented **authentication, cart system, order management**
+### Languages
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+
+### Frontend
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+
+### Backend
+![NodeJS](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-grey?style=for-the-badge&logo=express)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+
+### DevOps & Tools
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge&logo=kubernetes)
+![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonaws)
+
+---
+
+## 🔥 Featured Projects
+
+### 🍔 Yumigo – Food Delivery App
+- Full-stack application using **React, Node.js, Express.js, MongoDB**
+- Implemented **authentication, cart, and order management**
 - Designed scalable **REST APIs**
 
-### 🧓 ElderCare Harmony – Healthcare Assistance Platform
-- Platform connecting elderly users with caregiving services
-- Built responsive UI using **React**
-- Integrated authentication and service booking
+### 👵 ElderCare Harmony
+- Platform connecting elderly users with caregivers
+- Built using **React and modern web technologies**
 
-### 🎭 Deepfake Detection System
+### 🎭 Deepfake Detection
 - Deep learning model using **ResNet50 + OpenCV**
-- Built **Flask API** for video analysis
-- Detects manipulated videos effectively
+- Built **Flask API** for video detection
 
-### 💻 WebDeveloper – Backend Internship Project
-- Developed backend APIs using **Node.js and Express**
-- Implemented business logic and deployment on **Render**
+### 💻 Backend Internship Project
+- Built backend APIs using **Node.js and Express**
+- Deployment and hosting using **Render**
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
+
 <img src="https://github-readme-stats.vercel.app/api?username=apurva-ak47&show_icons=true&theme=tokyonight" height="170"/>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apurva-ak47&layout=compact&theme=tokyonight" height="170"/>
+
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=apurva-ak47&theme=tokyonight"/>
@@ -91,13 +88,15 @@
 
 ---
 
-# 📫 Connect With Me
+## 📫 Connect With Me
 
-📧 Email: apurvakohad12@gmail.com  
-💻 GitHub: https://github.com/apurva-ak47  
+📧 Email: **apurvakohad12@gmail.com**
+
+💻 GitHub:  
+https://github.com/apurva-ak47
 
 ---
 
-# ⚡ Fun Fact
+## ⚡ Fun Fact
 
-💡 I enjoy solving real-world problems with technology and exploring **Backend, DevOps, and Cloud infrastructure**.
+I enjoy building **backend systems, DevOps pipelines, and scalable applications** 🚀
