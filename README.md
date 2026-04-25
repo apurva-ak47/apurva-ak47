@@ -66,17 +66,6 @@
 - Built backend APIs using **Node.js and Express**
 - Deployment and hosting using **Render**
 
----
-
-
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=apurva-ak47&theme=tokyonight"/>
-</p>
-
----
 
 ## 📫 Connect With Me
 
